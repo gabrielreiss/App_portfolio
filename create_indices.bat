@@ -1,0 +1,1 @@
+python "src\python\Indices\create_indices.py"

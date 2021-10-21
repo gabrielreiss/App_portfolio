@@ -1,0 +1,1 @@
+streamlit run "src\python/app.py"
